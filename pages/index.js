@@ -11,3 +11,6 @@ export default function Home() {
     </main>
   );
 }
+<p style={{marginTop:8}}>
+  <a href="/generate" style={{color:'#276678', textDecoration:'underline'}}>✨ Generate a sample plan</a>
+</p>
