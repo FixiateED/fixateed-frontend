@@ -11,6 +11,9 @@ export default function Home() {
     </main>
   );
 }
+<p style={{marginTop:24}}>
+  <a href="/new-child" style={{color:'#276678', textDecoration:'underline'}}>➕ Add a child profile</a>
+</p>
 <p style={{marginTop:8}}>
   <a href="/generate" style={{color:'#276678', textDecoration:'underline'}}>✨ Generate a sample plan</a>
 </p>
